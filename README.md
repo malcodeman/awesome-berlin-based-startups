@@ -1,12 +1,17 @@
 # Awesome Berlin Based Startups
 
 - [billie](https://www.billie.io)
+- [contentful](https://contentful.com)
 - [finoa](https://finoa.io)
 - [forto](https://forto.com)
 - [inkitt](https://inkitt.com)
 - [layer](https://golayer.io)
 - [moss](https://getmoss.com)
+- [n26](https://n26.com)
 - [omio](https://omio.com)
 - [pitch](https://pitch.com)
+- [solaris](https://www.solarisgroup.com)
 - [taxfix](https://taxfix.de)
 - [tier](https://tier.app)
+- [trade republic](https://traderepublic.com)
+- [zalando](https://zalando.com)
