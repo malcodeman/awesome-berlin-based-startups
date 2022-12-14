@@ -1,4 +1,5 @@
-# Awesome Berlin Based Startups
+<div align="center"><img width="256px" src="readme/berlin.webp"/></div>
+<h1 align="center">Awesome Berlin Based Startups</h1>
 
 - [billie](https://www.billie.io)
 - [contentful](https://contentful.com)
