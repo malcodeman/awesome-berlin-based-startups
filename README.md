@@ -1,8 +1,11 @@
 <div align="center"><img width="256px" src="readme/berlin.webp"/></div>
 <h1 align="center">Awesome Berlin Based Startups</h1>
 
+- [babbel](https://www.babbel.com)
 - [berlin brands group](https://www.berlin-brands-group.com)
 - [billie](https://www.billie.io)
+- [blinkist](https://www.blinkist.com)
+- [candis](https://www.candis.io)
 - [clue](https://helloclue.com)
 - [contentful](https://contentful.com)
 - [delivery hero](https://deliveryhero.com)
@@ -24,10 +27,12 @@
 - [omio](https://omio.com)
 - [pitch](https://pitch.com)
 - [popcore](https://popcore.com)
+- [ratepay](https://www.ratepay.com)
 - [razor group](https://www.razor-group.com)
 - [sellerx](https://sellerx.com)
 - [sennder](https://sennder.com)
 - [solaris](https://www.solarisgroup.com)
+- [soundcloud](https://www.soundcloud.com)
 - [taxfix](https://taxfix.de)
 - [tier](https://tier.app)
 - [tourlane](https://tourlane.com)
