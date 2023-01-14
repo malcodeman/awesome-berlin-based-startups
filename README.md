@@ -1,6 +1,7 @@
 <div align="center"><img width="256px" src="readme/berlin.webp"/></div>
 <h1 align="center">Awesome Berlin Based Startups</h1>
 
+- [ada](https://ada.com)
 - [adjust](https://adjust.com)
 - [amboss](https://amboss.com)
 - [amie](https://amie.so)
@@ -15,6 +16,7 @@
 - [dance](https://dance.co)
 - [delivery hero](https://deliveryhero.com)
 - [ecosia](https://ecosia.com)
+- [element](https://element.in)
 - [enpal](https://enpal.de)
 - [eyeem](https://eyeem.com)
 - [feather](https://feather-insurance.com)
@@ -23,6 +25,7 @@
 - [forto](https://forto.com)
 - [getyourguide](https://getyourguide.com)
 - [gorillas](https://gorillas.io)
+- [habyt](https://habyt.com)
 - [hellobetter](https://hellobetter.de)
 - [idagio](https://idagio.com)
 - [inkitt](https://inkitt.com)
@@ -37,12 +40,14 @@
 - [n26](https://n26.com)
 - [nilohealth](https://nilohealth.com)
 - [omio](https://omio.com)
+- [onefootball](https://onefootball.com)
 - [pitch](https://pitch.com)
 - [popcore](https://popcore.com)
 - [ratepay](https://www.ratepay.com)
 - [razor group](https://www.razor-group.com)
 - [researchgate](https://researchgate.net)
 - [rows](https://rows.com)
+- [sanitygroup](https://sanitygroup.com)
 - [sellerx](https://sellerx.com)
 - [sennder](https://sennder.com)
 - [solaris](https://www.solarisgroup.com)
