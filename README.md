@@ -39,6 +39,7 @@
 - [jina](https://jina.ai)
 - [join](https://join.com)
 - [juniqe](https://juniqe.com)
+- [langfuse](https://langfuse.com)
 - [layer](https://golayer.io)
 - [mondu](https://mondu.ai)
 - [moonfare](https://moonfare.com)
