@@ -3,6 +3,7 @@
 
 - [ada](https://ada.com)
 - [adjust](https://adjust.com)
+- [agenta](https://agenta.ai)
 - [amboss](https://amboss.com)
 - [amie](https://amie.so)
 - [apryl](https://apryl.co)
